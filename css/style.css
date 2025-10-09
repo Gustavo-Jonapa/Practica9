@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+article{
+    background-color: lightgray;
+}
+nav{
+    background-color: gray;
+}
+footer{
+    background-color: darkgray;
+    text-align: center;
+    padding: 30px;
+}
+.col{
+    padding-bottom: 40px;
+}
